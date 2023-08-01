@@ -21,3 +21,5 @@ Essa operação deve listar todos os depósitos e saque realizados na conta. No 
 
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 1500.45 = R$ 1500.45
+
+Obs: Foi colocado uma cor verde para o print do depósito e uma cor vermelha para o print do saque.
